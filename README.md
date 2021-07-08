@@ -1,8 +1,11 @@
-# SudokuSolver
+#SudokuSolver
 A Java Sudoku solver 
+
+
+### This is a terminal output:
+
 <img src = "images/JavaSudokuSolverNoGUI.png">
 
 
-This is a terminal output.
-
-Improving code and Adding GUI in the future
+## Later
+Improving code and Adding GUI.
