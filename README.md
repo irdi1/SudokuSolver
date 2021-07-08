@@ -1,8 +1,9 @@
 # SudokuSolver
 A Java Sudoku solver 
 
-This is a terminal output.
 ![](images/JavaSudokuSolverNoGUI.png)
 
 
-Work in Progress
+This is a terminal output.
+
+Improving code and Adding GUI in the future
