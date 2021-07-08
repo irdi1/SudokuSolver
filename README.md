@@ -1,7 +1,6 @@
 # SudokuSolver
 A Java Sudoku solver 
-
-![](images/JavaSudokuSolverNoGUI.png)
+<img src = "images/JavaSudokuSolverNoGUI.png">
 
 
 This is a terminal output.
