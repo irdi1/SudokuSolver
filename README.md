@@ -7,5 +7,4 @@ A Java Sudoku solver
 <img src = "images/JavaSudokuSolverNoGUI.png">
 
 
-## Later
-Improving code and Adding GUI.
+
